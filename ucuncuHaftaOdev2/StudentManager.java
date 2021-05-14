@@ -12,4 +12,4 @@ public class StudentManager extends UserManager {
 	public void delete(String message) {
 		System.out.println("Student Silindi :" + message);
 	}
-}
+} 
