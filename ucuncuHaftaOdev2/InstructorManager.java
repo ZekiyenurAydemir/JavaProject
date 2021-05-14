@@ -11,7 +11,7 @@ public class InstructorManager extends UserManager {
 
 	public void delete(String message) {
 		System.out.println("Instructor Silindi :" + message);
-	}
+	} 
 	
 
 }
